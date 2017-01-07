@@ -15,3 +15,11 @@
 // l;djjefdcvx ergfdvc
 // hvwdjldsjvjsdtgbdsfvx
 // wdljshvlgsdvxcgfd
+
+
+
+// createDocumentFragment()animationa
+// f
+// alignContent = 'space-around'for(var i = 0, length1 = after(animationName = 'initial'defineProperty(o: Object, p: string, attrs: any)).length; i < length1; i++){
+// 	after(animationName = 'initial'defineProperty(o: Object, p: string, attrs: any))[i]
+// }
